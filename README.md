@@ -10,7 +10,7 @@ data comes out.
         🚕 30.00 USD — gas (transport)
 
         ████░░░░░░ 420.00 USD / 1,000.00 USD
-        💚 580.00 USD left this month
+        580.00 USD left this month
         [↩️ Undo 15.00 USD] [↩️ Undo 30.00 USD]
 ```
 
