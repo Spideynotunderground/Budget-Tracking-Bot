@@ -6,8 +6,8 @@ data comes out.
 ```
 🎤 You: (voice) "Spent 15 on lunch and 30 on gas"
 
-🤖 Bot: ✅ 🍔 15.00 USD — lunch (food)
-        ✅ 🚕 30.00 USD — gas (transport)
+🤖 Bot: 🍔 15.00 USD — lunch (food)
+        🚕 30.00 USD — gas (transport)
 
         ████░░░░░░ 420.00 USD / 1,000.00 USD
         💚 580.00 USD left this month
